@@ -1,6 +1,9 @@
-# github_test
+# 个人基本信息
 
-test
-123546481549841
+- 班级 ：17级自动化卓越班
+- 姓名 ：黄沛濠
+- 学号 ：3117000828
+- 班内序号 ：09
 
-![login](http://github.com/2387137609/github_test/raw/master/images/homework1.jpg)
+# 第一次作业   
+![result](http://github.com/GDUTRong/hw1-2387137609/raw/master/images/homework1.jpg)
